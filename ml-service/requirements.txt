@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+kafka-python-ng
+boto3
+python-dotenv
+numpy
+pytest
+lapx>=0.5.5
+watchdog
+requests
+kaggle
