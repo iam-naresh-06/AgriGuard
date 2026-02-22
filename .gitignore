@@ -32,5 +32,6 @@ env/
 # Large Files / Datasets
 *.zip
 *.mp4
+ml-service/Dataset/
 ml-service/Traffic Dataset/
 ml-service/new-plant-diseases-dataset.zip

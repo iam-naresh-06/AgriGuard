@@ -7,7 +7,7 @@ def train_model():
     # Train the model
     # Point directly to the dataset directory for classification
     # The dataset updates 'train' and 'val' folders automatically
-    data_path = "C:/Users/maste/OneDrive/Documents/Skcet/Projects/AgriGuard/ml-service/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)"
+    data_path = "C:/Users/maste/OneDrive/Documents/Skcet/Projects/AgriGuard/ml-service/Dataset/New Plant Diseases Dataset(Augumented/New Plant Diseases Dataset(Augmented)"
     
     results = model.train(data=data_path, epochs=20, imgsz=224)
     
